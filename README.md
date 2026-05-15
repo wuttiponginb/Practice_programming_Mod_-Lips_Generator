@@ -1,4 +1,4 @@
-print("""---Mod_ Lips_Generator---
+print("""---Mad_ Lips_Generator---
 
 Story EX. I asked the _1._ for a __2.___, 
 but he brought me a __3.__ of soup instead. 
